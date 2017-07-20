@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "loro",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 0,
+    "uniqCompNum": 3,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -159,6 +159,43 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "loro": {
+      "settings": {
+        "title": "Web Creator Title",
+        "meta_descr": "Web Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-nn6l8v4dby1thvnbao1.gif",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "LOVE 4 YOU",
+          "text": "EPIC SQUIRTER!FUCK ONE FUCK ALL!GOLD ACTIVATED VIBRATOR<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN O COK</a> "
         }
       ]
     }
